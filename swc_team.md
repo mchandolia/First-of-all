@@ -265,3 +265,6 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, Django, Bootstrap, Javascript
    - *email* : a.shrawge@iitg.ac.in
 
+* [Darshit Nagar](https://github.com/Darshit-git)
+   - *Frameworks* : HTML,CSS,Bootstrap,JavaSript,Django
+   - *email* : darshit18@iitg.ac.in
